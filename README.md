@@ -27,7 +27,7 @@ Here I use the Amazon historical prices data, to develop the backtest.
 💵 **Final** Portifolio Value:   $ 1447267.00
 
 
-![]()
+![](https://raw.githubusercontent.com/josehenriqueroveda/backtesting/master/Figure_0.png)
 
 ---
 
